@@ -1,0 +1,4 @@
+[07-Mar-2020 10:54:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/dezireit/public_html/fake_news/app/CaseResult.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dezireit/public_html/fake_news/app/CaseResult.php on line 7
